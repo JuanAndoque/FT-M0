@@ -1,0 +1,33 @@
+body {
+    background:url(fondo1css.jpg);
+}
+img {
+    width: 400px;
+}
+#thirdDiv {
+    position: relative;
+    left: 650px;
+    bottom: 0px;
+    height: 600px; 
+    width: 500px;
+    background-color: rgb(141, 233, 141);
+    padding: 50px;
+    border:dotted 3px rgb(56, 139, 8);
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
+.divClass1 {
+    color: rgb(0, 0, 0);
+    position: relative;
+    text-align: center;
+    font-family: "Calibri";
+
+}
+.divClass2 {
+    position: relative;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: "Calibri";
+}
